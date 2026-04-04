@@ -32,3 +32,4 @@ https://vixcloud.co/playlist/694516?b=1&token=c35c06622c0e6f1847cd54735718e675&e
 https://vixcloud.co/playlist/333564?token=ab83d935515828ade5c894cf6413727b&expires=1780491190&h=1&scz=1&lang=it
 #EXTINF:0 type="VOD" tvg-logo="https://streaming-community.trade/uploads/posters/tt6718170.webp", Mario Bros | ᴵᵗᵃˡᶦᵃ 2023
 https://vixcloud.co/playlist/158000?type=video&rendition=1080p&token=PuB-dZiiSEESziqPKRN7tw&expires=1780495615&b=1&scz=1
+#EXT-X-ENDLIST
