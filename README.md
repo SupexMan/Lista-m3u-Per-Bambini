@@ -18,3 +18,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:0 type="favorites" channelId="2233", Focus | ᴵᵗᵃˡᶦᵃ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:0 type="FILM" tvg-logo="https://streaming-community.trade/uploads/posters/tt2948356.webp", Zootropolis
+https://vixcloud.co/playlist/214344?token=087ba898f4f481bb0e1529c3c086da03&expires=1780476297&h=1&scz=1&lang=it
+#EXTINF:0 type="FILM" tvg-logo="https://streaming-community.trade/uploads/posters/tt26443597.webp", Zootropolis 2
+https://vixcloud.co/playlist/640562?b=1&token=843279fd143035d2db00a5ecd0978556&expires=1780491441&h=1&scz=1&lang=it
