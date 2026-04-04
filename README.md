@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:0 type="stream" channelId="2210" catchup="flussonic", Rai Yoyo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:0 type="stream" channelId="2209" catchup="flussonic", Rai Gulp
