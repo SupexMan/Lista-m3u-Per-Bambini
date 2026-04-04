@@ -28,7 +28,7 @@ https://vixcloud.co/playlist/640562?b=1&token=843279fd143035d2db00a5ecd0978556&e
 https://vixcloud.co/playlist/693530?token=fc5cbecf46ba392b5d9456bf128d933b&expires=1780491631&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-logo="https://streaming-community.trade/uploads/logos/tt27613895.webp", Goat | ᴵᵗᵃˡᶦᵃ 2026
 https://vixcloud.co/playlist/694516?b=1&token=c35c06622c0e6f1847cd54735718e675&expires=1780491578&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-logo="https://streaming-community.trade/uploads/logos/tt4900148.webp", Elio | ᴵᵗᵃˡᶦᵃ 2025 
+#EXTINF:-1, Elio | ᴵᵗᵃˡᶦᵃ 2025 
 https://vixcloud.co/playlist/333564?token=ab83d935515828ade5c894cf6413727b&expires=1780491190&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-logo="https://streaming-community.trade/uploads/posters/tt6718170.webp", Mario Bros | ᴵᵗᵃˡᶦᵃ 2023
 https://vixcloud.co/playlist/158000?type=video&rendition=1080p&token=PuB-dZiiSEESziqPKRN7tw&expires=1780495615&b=1&scz=1
